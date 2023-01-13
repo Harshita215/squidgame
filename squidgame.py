@@ -26,12 +26,6 @@ t.forward(150)
 t.left(120)
 t.forward(150)
 
-
-
-
-
-
-
 t.hideturtle()
 t.penup()
 t.goto(170,0)
@@ -41,27 +35,14 @@ t.pendown()
 t.left(120)
 t.forward(150)
 
-
-
-
 t.hideturtle()
 t.penup()
 t.goto(170,0)
 t.showturtle()
 t.pendown()
 
-
-
 t.forward(140)
 t.left(90)
-
-
-
-t.forward(140)
-t.left(90)
-
-
-
 
 t.forward(140)
 t.left(90)
@@ -69,7 +50,7 @@ t.left(90)
 t.forward(140)
 t.left(90)
 
-
-
+t.forward(140)
+t.left(90)
 
 turtle.done()
